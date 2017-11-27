@@ -1,4 +1,4 @@
-package com.example.syrup.funfacts;
+package com.example.EP.funfacts;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
