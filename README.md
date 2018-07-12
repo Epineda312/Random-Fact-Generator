@@ -1,2 +1,2 @@
 # Random-Fact-Generator
-Simplest Form of a random fact generator for Android devices.
+Random fact generator for Android devices.
